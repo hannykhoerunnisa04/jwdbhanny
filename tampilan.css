@@ -1,0 +1,12 @@
+table {
+  background-color: grey;
+  padding: 25px;
+  border-spacing: 0 5px;
+}
+
+.login {
+  background-color: royalblue;
+  color: white;
+  border-color: none;
+  width: 100%;
+}
